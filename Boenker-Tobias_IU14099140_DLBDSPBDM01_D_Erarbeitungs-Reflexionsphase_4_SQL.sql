@@ -1,0 +1,13 @@
+-- Hinzufügen von Daten
+
+START TRANSACTION;
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+
+-- INSERT INTO [...] ;
+
+
+SET FOREIGN_KEY_CHECKS = 1;
+
+COMMIT;
